@@ -1,0 +1,51 @@
+[{
+    "soundFile":"birdsMitchell.wav",
+    "location":{"lat":49.684242832445776 , "lng":-125.02012878550656} 
+},
+{
+    "soundFile":"cricketsAndMusic.wav",
+    "location":{"lat":49.681429763453615, "lng": -125.02086904254305} 
+},
+{
+    "soundFile":"SealBay.wav",
+    "location":{"lat":49.76360008058174, "lng": -124.96583710615657} 
+},
+{
+    "soundFile":"rainBirds.wav",
+    "location":{"lat":49.65246604771351, "lng": -124.95247748893166} 
+},
+{
+    "soundFile":"estuaryAirplane.wav",
+    "location":{"lat":49.67990528509774, "lng": -124.97736937341655}
+},
+{
+    "soundFile":"puntledgeRiver.wav",
+    "location":{"lat":49.68885532429298, "lng": -125.01486869409611} 
+},
+{
+    "soundFile":"waterGoosespit.wav",
+    "location":{"lat":49.664132477789785, "lng": -124.90247236948431} 
+},
+{
+    "soundFile":"capeLazoMotorcycle.wav",
+    "location":{"lat":49.69089991522166, "lng": -124.87042976203695} 
+},
+{
+    "soundFile":"cricketsCars.wav",
+    "location":{"lat":49.68297414885016, "lng": -125.02341580769095} 
+},
+{
+    "soundFile":"Lazo2.wav",
+    "location":{"lat":49.687109483667825, "lng": -124.89296967484395} 
+},
+{
+    "soundFile":"birdsWoodPark.wav",
+    "location":{"lat":49.638446747911146, "lng": -125.10841552353837} 
+},
+{
+    "soundFile":"woodsParkAirplane.wav",
+    "location":{"lat":49.66984663003024, "lng": -124.90961507183219} 
+}
+]               
+                      
+                                 

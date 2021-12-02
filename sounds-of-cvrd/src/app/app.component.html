@@ -1,12 +1,12 @@
 
 
-<h1> Explore the Comox Valley by Sound!</h1>
+<h1>Sounds of Urban Encroachment</h1>
 
 
-<google-map height="800px" width="1000px" [options]="options" > 
-  <map-marker
-    [position]="markerPosition"
-    [options]="markerOptions"
+<google-map height="1300px" width="" [options]="options" > 
+  <map-marker *ngFor="let marker of myMarkers"
+    [position]="marker.markerPositions"
+    [options]="marker.markerOptions"
+    (mapClick)="playSoundscape(marker.markerOptions)"
   ></map-marker>
-
 </google-map>
