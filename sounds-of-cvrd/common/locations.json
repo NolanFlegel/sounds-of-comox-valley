@@ -1,0 +1,75 @@
+[{
+    "soundFile":"birdsMitchell.wav",
+    "location":[{"lat":"49.684242832445776" , "lng":"-125.02012878550656"}] 
+},
+{
+    "soundFile":"cricketsAndMusic.wav",
+    "location":[{"lat":"49.681429763453615" , "lng": "-125.02086904254305"}] 
+},
+{
+    "soundFile":"cricketsHummingbird.wav",
+    "location":[{"lat":"49.68405375106861" , "lng": "-125.0204184314087"}]
+},
+{
+    "soundFile":"estuaryAirplane.wav",
+    "location":[{"lat":"49.681297001222944" , "lng": "-124.98135387992676"}] 
+},
+{
+    "soundFile":"LazoAirplane.wav",
+    "location":[{"lat":"49.68798068260681" , "lng": "-124.89261870434784"}] 
+},
+{
+    "soundFile":"SealBay.wav",
+    "location":[{"lat":"49.76360008058174" , "lng": "-124.96583710615657"}] 
+},
+{
+    "soundFile":"birdsWoodPark.wav",
+    "location":[{"lat":"49.66981965938833" , "lng": "-124.90953915438396"}] 
+},
+{
+    "soundFile":"cricketsCars2.wav",
+    "location":[{"lat":"49.65204058578834" , "lng": "-124.95225620718914"}] 
+},
+{
+    "soundFile":"cricketsVacuum.wav",
+    "location":[{"lat":"49.68302856811038" , "lng": "-125.02127827787527"}] 
+},
+{
+    "soundFile":"estuaryBlackbirds.wav",
+    "location":[{"lat":"49.67990528509774" , "lng": "-124.97736937341655"}]
+},
+{
+    "soundFile":"puntledgeRiver.wav",
+    "location":[{"lat":"49.68885532429298" , "lng": "-125.01486869409611"}] 
+},
+{
+    "soundFile":"waterGoosespit.wav",
+    "location":[{"lat":"49.664132477789785" , "lng": "-124.90247236948431"}] 
+},
+{
+    "soundFile":"capeLazoMotorcycle.wav",
+    "location":[{"lat":"49.69089991522166" , "lng": "-124.87042976203695"}] 
+},
+{
+    "soundFile":"cricketsCars.wav",
+    "location":[{"lat":"49.68297414885016" , "lng": "-125.02341580769095"}] 
+},
+{
+    "soundFile":"estuaryAirplane2.wav",
+    "location":[{"lat":"49.67680830430955" , "lng": "-124.97839209032561"}] 
+},
+{
+    "soundFile":"Lazo2.wav",
+    "location":[{"lat":"49.69324773853854" , "lng": "-124.89402961337086"}]
+},
+{
+    "soundFile":"rainBirds.wav ",
+    "location":[{"lat":"49.638446747911146" , "lng": "-125.10841552353837"}] 
+},
+{
+    "soundFile":"woodsParkAirplane.wav",
+    "location":[{"lat":"49.66984663003024" , "lng": "-124.90961507183219"}] 
+}
+]               
+                      
+                                 
